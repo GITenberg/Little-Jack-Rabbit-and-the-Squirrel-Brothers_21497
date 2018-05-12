@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/871
 description: '"Mr. Squirrel Nutcracker''s two boys are great friends of Little Jack,
   but old Barney Owl makes a lot of trouble for all three"--Publisher''s advertisement.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21497#Little-Jack-Rabbit-and-the-Squirrel-Brothers
 gutenberg_issued: '2007-05-16'
 gutenberg_type: Text
 identifiers:
